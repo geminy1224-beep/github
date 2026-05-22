@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Grind",
+  "description": "A virtual competitive tuition classroom for solo students looking for rivalry, social pressure, and classroom energy, enhanced with emotional caretaker motivation from Hemanth's girlfriend Sophia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
